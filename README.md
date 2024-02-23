@@ -5,9 +5,9 @@ Welcome to my game repository! This repository is a collection of games I've dev
 ## Games
 
 ### [Minesweeper](https://github.com/NKD52/Games/tree/main/Minesweeper)
-Description: A brief description of the first game.
+Description: A simple game I developed with the help of the internet as well as various other sources. This is my very first programming project!
 
-Programming Language: Language used to develop the game.
+Programming Language: c++
 
 
 ## Getting Started
@@ -20,10 +20,10 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgements
 
-Special thanks to [mention any libraries, frameworks, or resources used in developing the games].
+
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hi, feel free to contact me at [your_email@example.com].
+If you have any questions, suggestions, or just want to say hi, feel free to contact me at [najdawoodjee@gmail.com].
 
 Happy gaming!
